@@ -38,5 +38,6 @@ Iterative Process: Data analysis is often an iterative process, where insights l
 the data and make informed decisions.
 
 
- ![Sales Dashboard](https://github.com/Narendra1402/Sales-Analysis_Report-/assets/122566558/c3e8bfde-3185-449c-bdf5-1d8fb18a692b)
+ ![Sales Dashboard02](https://github.com/Narendra1402/Sales-Analysis_Report-/assets/122566558/53fd495f-0ae2-4573-92a6-5c6d715e754a)
+
 
